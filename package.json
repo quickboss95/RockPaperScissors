@@ -1,0 +1,19 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "main": "gamerules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickboss95/RockPaperScissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quickboss95/RockPaperScissors/issues"
+  },
+  "homepage": "https://github.com/quickboss95/RockPaperScissors#readme",
+  "description": ""
+}
