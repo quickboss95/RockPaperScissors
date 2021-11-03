@@ -14,10 +14,10 @@ class Player {
       this.playerNumber=player 
       let playerObject = new player("Player One", true);
       let playerObject = new player("Player Two", true);
-      
+      else{prompt("invalid try again")}
  
     }
-    defineGesture(["rock","paper","scissors","lizard","spock"])
+    function defineGesture{(["rock","paper","scissors","lizard","spock"])}
     
 }
    
