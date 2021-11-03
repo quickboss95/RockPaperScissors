@@ -15,5 +15,9 @@
     "url": "https://github.com/quickboss95/RockPaperScissors/issues"
   },
   "homepage": "https://github.com/quickboss95/RockPaperScissors#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "sync": "^0.2.5"
+  }
 }
