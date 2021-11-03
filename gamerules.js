@@ -10,7 +10,10 @@ class Player {
       console.log(`Hello, ${this.name}, welcome to a game of rock paper scissors!`);
     }
     definePlayer(player){
-      this.playerNumber=player  
+      this.playerNumber=player 
+      let playerObject = new player("Player One", true);
+      let playerObject = new player("Player Two", true);
+
     }
     
 }
